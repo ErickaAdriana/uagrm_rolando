@@ -8,6 +8,7 @@ El objetivo de este informe es facilitar la transferencia de información y la c
 FECHA:DDMMAAA
 
 QUE HICE HASTA AHORA?
+hoy
 
 QUE ARE HOY?
 
