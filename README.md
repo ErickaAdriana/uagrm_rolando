@@ -1,6 +1,6 @@
-﻿ Estudiante:_____________________________________
- Investigación:________________________________________
-
+Estudiante:_____________________________________
+Investigación:_________________________________
+Año:____________
 
 Informe Diario de Avance:
 El objetivo de este informe es facilitar la transferencia de información y la colaboración entre los miembros del equipo para aumentar la productividad.
