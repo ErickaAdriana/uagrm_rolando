@@ -1,18 +1,20 @@
-Estudiante:_____________________________________
-Investigación:_________________________________
-Año:____________
+Estudiante:__________ERICKA A. MARTINEZ ZUÑIGA___________________________
+Investigación:______PROFUNDIZAR CONOCIMIENTOS EN NORMAS APA PARA MI PROYECTO___________________________
+Año:_____2019_______
 
 Informe Diario de Avance:
 El objetivo de este informe es facilitar la transferencia de información y la colaboración entre los miembros del equipo para aumentar la productividad.
 
-FECHA:DDMMAAA
+FECHA:06/09/2019
 
 QUE HICE HASTA AHORA?
 hoy
-
+INVESTIGAR MAS A DETALLE LAS NORMAS APA
+TAMBIEN 
 QUE ARE HOY?
-
+MODIFICAR MI PROYECTO CUMPLIENDO LAS NORMAS 
 COMO LO HARE?
+CAMBIANDO EL FORMATO DE MI PROYECTO COMO LO DESCRIBE LAS NORMAS APA
 
 
 
